@@ -1,0 +1,7 @@
+seaborn
+streamlit
+pandas
+seaborn
+numpy
+matplotlib.pyplot
+datetime
